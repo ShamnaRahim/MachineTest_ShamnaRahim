@@ -54,7 +54,7 @@ class _ChatScreenState extends State<ChatScreen>
         User(
         avatar: 'Assets/Images/grey.jpg',
         name: 'Shamna_rahim',
-        time: '35min ago',
+        time: '45min ago',
         //photo: 'Assets/Images/ns.jpg',
         notifctn: 'hello welcome to instagram'),
   ];
